@@ -1,2 +1,2 @@
 # Sql-Project-Testcases
-SQL, MySQL
+HackerRank
